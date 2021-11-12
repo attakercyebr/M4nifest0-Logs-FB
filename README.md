@@ -3,7 +3,7 @@
 
 # Description
 *************
--📌 I have new victims of Facebook from this country [United States, DE, BR, AR, NL, MY, IL, CZ, CA, TR, ... etc] Number: 2229 victims of log
+- I have new victims of Facebook from this country [United States, DE, BR, AR, NL, MY, IL, CZ, CA, TR, ... etc] Number: 2229 victims of log
 
 # Logs details 
 ------------------------------------------------
@@ -50,7 +50,7 @@
 
 ----------------------
 
-# ☠️👊 M4nifest0 Black Hat Hacking Team™💪🏴‍☠️:
+# 👊 M4nifest0 Black Hat Hacking Team™💪 
 ----------------------
 - 📌 Visit our channel or our site to download .
 
