@@ -1,0 +1,54 @@
+
+                                               
+    ██╗  ██╗ █████╗  ██████╗██╗  ██╗██╗  ██╗██╗     ██╗  ██╗ 
+    ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██║  ██║██║     ╚██╗██╔╝ 
+    ███████║███████║██║     █████╔╝ ███████║██║      ╚███╔╝  
+    ██╔══██║██╔══██║██║     ██╔═██╗ ╚════██║██║      ██╔██╗  
+    ██║  ██║██║  ██║╚██████╗██║  ██╗     ██║███████╗██╔╝ ██╗ 
+    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝
+          📌 M4nifest0 Black Hat Hacking Team™💪
+                       👊 hack4lx 👊
+            📌 💪 Site : https://m4nifest0.com 👊
+            📌 💪 Site : https://m4nifest0.group 👊
+            📌 💪 Site : https://m4nifest0.shop 👊
+        💪 Channel Telegram : https://t.me/M4nifest0 👊
+ # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
+1) Adobe Flash Player 32 ActiveX [32.0.0.387]
+2) Adobe Photoshop CC 2019 [20.0.8]
+3) Adobe Shockwave Player 12.3 [12.3.5.205]
+4) CorelDRAW Graphics Suite 2018 - IPM Content [20.0]
+5) Dev-C++ [5.11]
+6) Driver Booster 7 [7.5.0]
+7) Epic Games Launcher [1.1.291.0]
+8) Geeks3D FurMark 1.21.2.0 [1.21.2.0]
+9) Ghostscript GPL 8.64 (Msi Setup) [8.64]
+10) Ghostscript GPL 8.64 (Msi Setup) [8.64]
+11) Google Chrome [87.0.4280.88]
+12) Google Update Helper [1.3.36.51]
+13) Intel(R) Processor Graphics [10.18.10.5069]
+14) Intel(R) USB 3.0 eXtensible Host Controller Driver [1.0.10.255]
+15) Java 8 Update 212 [8.0.2120.10]
+16) Java Auto Updater [2.8.212.10]
+17) Launcher Prerequisites (x64) [1.0.0.0]
+18) Microsoft Games for Windows - LIVE Redistributable [3.5.88.0]
+19) Microsoft Games for Windows Marketplace [3.5.50.0]
+20) Microsoft Visual C++ 2005 Redistributable [8.0.61187]
+21) Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.7523 [9.0.30729.7523]
+22) Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219 [10.0.40219]
+23) Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61135 [11.0.61135]
+24) Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61135 [11.0.61135]
+25) Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664 [12.0.40664.0]
+26) Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664 [12.0.40664.0]
+27) Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664 [12.0.40664]
+28) Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664 [12.0.40664]
+29) Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.27.29016 [14.27.29016.0]
+30) Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.21.27702 [14.21.27702.2]
+31) Microsoft Visual C++ 2019 X86 Additional Runtime - 14.21.27702 [14.21.27702]
+32) Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.21.27702 [14.21.27702]
+33) Microsoft Visual Studio Tools for Applications 2017 [15.0.26717]
+34) Microsoft Visual Studio Tools for Applications 2017 x86 Hosting Support [15.0.26717]
+35) Microsoft XNA Framework Redistributable 3.0 [3.0.11010.0]
+36) Microsoft XNA Framework Redistributable 3.1 [3.1.10527.0]
+37) OpenAL []
+38) Realtek High Definition Audio Driver [6.0.8746.1]

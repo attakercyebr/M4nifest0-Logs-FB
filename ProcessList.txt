@@ -1,0 +1,83 @@
+
+                                               
+    ██╗  ██╗ █████╗  ██████╗██╗  ██╗██╗  ██╗██╗     ██╗  ██╗ 
+    ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██║  ██║██║     ╚██╗██╔╝ 
+    ███████║███████║██║     █████╔╝ ███████║██║      ╚███╔╝  
+    ██╔══██║██╔══██║██║     ██╔═██╗ ╚════██║██║      ██╔██╗  
+    ██║  ██║██║  ██║╚██████╗██║  ██╗     ██║███████╗██╔╝ ██╗ 
+    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝
+          📌 M4nifest0 Black Hat Hacking Team™💪
+                       👊 hack4lx 👊
+            📌 💪 Site : https://m4nifest0.com 👊
+            📌 💪 Site : https://m4nifest0.group 👊
+            📌 💪 Site : https://m4nifest0.shop 👊
+        💪 Channel Telegram : https://t.me/M4nifest0 👊
+ # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
+ID: 624, Name: csrss.exe, CommandLine: %SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=winsrv:ConServerDllInitialization,2 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+===============
+ID: 700, Name: winlogon.exe, CommandLine: winlogon.exe
+===============
+ID: 1280, Name: atieclxx.exe, CommandLine: atieclxx
+===============
+ID: 1288, Name: NVDisplay.Container.exe, CommandLine: "C:\Program Files\NVIDIA Corporation\Display.NvContainer\NVDisplay.Container.exe" -f "C:\ProgramData\NVIDIA\DisplaySessionContainer%d.log" -d "C:\Program Files\NVIDIA Corporation\Display.NvContainer\plugins\Session" -r -l 3 -p 30000  -c
+===============
+ID: 1800, Name: dwm.exe, CommandLine: "C:\Windows\system32\Dwm.exe"
+===============
+ID: 1824, Name: explorer.exe, CommandLine: C:\Windows\Explorer.EXE
+===============
+ID: 1852, Name: taskhost.exe, CommandLine: "taskhost.exe"
+===============
+ID: 2400, Name: RtkNGUI64.exe, CommandLine: "C:\Program Files\Realtek\Audio\HDA\RtkNGUI64.exe" -s
+===============
+ID: 2444, Name: vgtray.exe, CommandLine: "C:\Program Files\Riot Vanguard\vgtray.exe" 
+===============
+ID: 2468, Name: CCXProcess.exe, CommandLine: "C:\Program Files (x86)\Adobe\Adobe Creative Cloud Experience\CCXProcess.exe" 
+===============
+ID: 2520, Name: EpicGamesLauncher.exe, CommandLine: "C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe" -silent
+===============
+ID: 2776, Name: node.exe, CommandLine: "C:\Program Files (x86)\Adobe\Adobe Creative Cloud Experience\libs\node.exe" "C:\Program Files (x86)\Adobe\Adobe Creative Cloud Experience\js\main.js"
+===============
+ID: 2796, Name: conhost.exe, CommandLine: \??\C:\Windows\system32\conhost.exe "-1245378294-67663155905563158-148102121869706458-261623504931390028-1242937866
+===============
+ID: 1768, Name: iusb3mon.exe, CommandLine: "C:\Program Files (x86)\Intel\Intel(R) USB 3.0 eXtensible Host Controller Driver\Application\iusb3mon.exe" 
+===============
+ID: 1256, Name: AdobeIPCBroker.exe, CommandLine: "C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\IPCBox\AdobeIPCBroker.exe" "-launchedbyvulcan-2776 C:\Program Files (x86)\Adobe\Adobe Creative Cloud Experience\libs\node.exe"
+===============
+ID: 4708, Name: EpicWebHelper.exe, CommandLine: "C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/Win64/EpicWebHelper.exe" --type=gpu-process --field-trial-handle=1516,3338347164044832696,6773809318589282512,131072 --enable-features=CastMediaRouteProvider --disable-features=OutOfBlinkCors --no-sandbox --locales-dir-path="C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales" --log-file=C:/Users/Erich/AppData/Local/EpicGamesLauncher/Saved/Logs/cef3.log --log-severity=warning --product-version="EpicGamesLauncher/12.0.0-15000293+++Portal+Release-Live UnrealEngine/4.23.0-15000293+++Portal+Release-Live Chrome/84.0.4147.38" --resources-dir-path="C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/CEF3/Win64/Resources" --lang=pt-BR --gpu-preferences=MAAAAAAAAADgACAwAAAAAAAAAAAAAAAAAABgAAAAAAAQAAAAAAAAAAAAAAAAAAAAKAAAAAQAAAAgAAAAAAAAACgAAAAAAAAAMAAAAAAAAAA4AAAAAAAAABAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAAAAAAAGAAAAEAAAAAAAAAABAAAABQAAABAAAAAAAAAAAQAAAAYAAAA= --log-file=C:/Users/Erich/AppData/Local/EpicGamesLauncher/Saved/Logs/cef3.log --mojo-platform-channel-handle=1536 /prefetch:2
+===============
+ID: 4892, Name: EpicWebHelper.exe, CommandLine: "C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/Win64/EpicWebHelper.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=1516,3338347164044832696,6773809318589282512,131072 --enable-features=CastMediaRouteProvider --disable-features=OutOfBlinkCors --lang=pt-BR --service-sandbox-type=network --no-sandbox --locales-dir-path="C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales" --log-file=C:/Users/Erich/AppData/Local/EpicGamesLauncher/Saved/Logs/cef3.log --log-severity=warning --product-version="EpicGamesLauncher/12.0.0-15000293+++Portal+Release-Live UnrealEngine/4.23.0-15000293+++Portal+Release-Live Chrome/84.0.4147.38" --resources-dir-path="C:/Program Files (x86)/Epic Games/Launcher/Engine/Binaries/ThirdParty/CEF3/Win64/Resources" --lang=pt-BR --log-file=C:/Users/Erich/AppData/Local/EpicGamesLauncher/Saved/Logs/cef3.log --mojo-platform-channel-handle=2364 /prefetch:8
+===============
+ID: 5172, Name: chrome.exe, CommandLine: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" 
+===============
+ID: 3172, Name: chrome.exe, CommandLine: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=crashpad-handler "--user-data-dir=C:\Users\Erich\AppData\Local\Google\Chrome\User Data" /prefetch:7 --monitor-self-annotation=ptype=crashpad-handler "--database=C:\Users\Erich\AppData\Local\Google\Chrome\User Data\Crashpad" "--metrics-dir=C:\Users\Erich\AppData\Local\Google\Chrome\User Data" --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=plat=Win64 --annotation=prod=Chrome --annotation=ver=87.0.4280.88 --initial-client-data=0xb0,0xb4,0xb8,0x84,0xbc,0x7feeb390eb0,0x7feeb390ec0,0x7feeb390ed0
+===============
+ID: 1124, Name: chrome.exe, CommandLine: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=gpu-process --field-trial-handle=1092,3460895022094909725,3979132130593306969,131072 --gpu-preferences=MAAAAAAAAADgAAAwAAAAAAAAAAAAAAAAAABgAAAAAAAQAAAAAAAAAAAAAAAAAAAAKAAAAAQAAAAgAAAAAAAAACgAAAAAAAAAMAAAAAAAAAA4AAAAAAAAABAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAAAAAAAGAAAAEAAAAAAAAAABAAAABQAAABAAAAAAAAAAAQAAAAYAAAA= --mojo-platform-channel-handle=1100 /prefetch:2
+===============
+ID: 5152, Name: chrome.exe, CommandLine: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=1092,3460895022094909725,3979132130593306969,131072 --lang=pt-BR --service-sandbox-type=network --mojo-platform-channel-handle=1280 /prefetch:8
+===============
+ID: 5372, Name: chrome.exe, CommandLine: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=utility --utility-sub-type=storage.mojom.StorageService --field-trial-handle=1092,3460895022094909725,3979132130593306969,131072 --lang=pt-BR --service-sandbox-type=utility --mojo-platform-channel-handle=1740 /prefetch:8
+===============
+ID: 236, Name: chrome.exe, CommandLine: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=utility --utility-sub-type=audio.mojom.AudioService --field-trial-handle=1092,3460895022094909725,3979132130593306969,131072 --lang=pt-BR --service-sandbox-type=audio --mojo-platform-channel-handle=4564 /prefetch:8
+===============
+ID: 1100, Name: RiotClientServices.exe, CommandLine: "E:\HD Jogos\Jogos\Riot Games\Riot Client\RiotClientServices.exe" --launch-product=valorant --launch-patchline=live
+===============
+ID: 5076, Name: RiotClientCrashHandler.exe, CommandLine: "E:\HD Jogos\Jogos\Riot Games\Riot Client\RiotClientCrashHandler.exe" --no-rate-limit "--attachment=2021-01-11T16-31-37_1100_Riot_Client.0.log=C:/Users/Erich/AppData/Local/Riot Games/Riot Client/Logs/Riot Client Logs/2021-01-11T16-31-37_1100_Riot Client.0.log" "--attachment=2021-01-11T16-31-37_1100_Riot_Client.log=C:/Users/Erich/AppData/Local/Riot Games/Riot Client/Logs/Riot Client Logs/2021-01-11T16-31-37_1100_Riot Client.log" "--attachment=__sentry-breadcrumb1=C:\Users\Erich\AppData\Local\Riot Games\Riot Client\Crashes\Riot Client\af4fde1c-972c-43b5-c30e-c87e19012b71.run\__sentry-breadcrumb1" "--attachment=__sentry-breadcrumb2=C:\Users\Erich\AppData\Local\Riot Games\Riot Client\Crashes\Riot Client\af4fde1c-972c-43b5-c30e-c87e19012b71.run\__sentry-breadcrumb2" "--attachment=__sentry-event=C:\Users\Erich\AppData\Local\Riot Games\Riot Client\Crashes\Riot Client\af4fde1c-972c-43b5-c30e-c87e19012b71.run\__sentry-event" "--database=C:\Users\Erich\AppData\Local\Riot Games\Riot Client\Crashes\Riot Client" "--metrics-dir=C:\Users\Erich\AppData\Local\Riot Games\Riot Client\Crashes\Riot Client" --url=https://sentry.io:443/api/1339107/minidump/?sentry_key=dc54709324504ab18ddf517a83f99e1a --initial-client-data=0x290,0x280,0x284,0x260,0x288,0x6dfb8190,0x6dfb81a0,0x6dfb81b0
+===============
+ID: 5376, Name: VALORANT.exe, CommandLine: 
+===============
+ID: 4584, Name: VALORANT-Win64-Shipping.exe, CommandLine: 
+===============
+ID: 5360, Name: UnrealCEFSubProcess.exe, CommandLine: 
+===============
+ID: 1644, Name: chrome.exe, CommandLine: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1092,3460895022094909725,3979132130593306969,131072 --lang=pt-BR --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=92 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=5028 /prefetch:1
+===============
+ID: 4108, Name: chrome.exe, CommandLine: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1092,3460895022094909725,3979132130593306969,131072 --lang=pt-BR --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=93 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=4596 /prefetch:1
+===============
+ID: 4536, Name: chrome.exe, CommandLine: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1092,3460895022094909725,3979132130593306969,131072 --lang=pt-BR --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=94 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=1332 /prefetch:1
+===============
+ID: 1680, Name: HACK.exe, CommandLine: "C:\Users\Erich\Desktop\HACK.exe" 
+===============
+ID: 5028, Name: WinRAR.exe, CommandLine: "C:\Program Files\WinRAR\WinRAR.exe" "C:\Users\Erich\Downloads\HACK(Password-1234).rar"
+===============
+ID: 948, Name: dllhost.exe, CommandLine: C:\Windows\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5}

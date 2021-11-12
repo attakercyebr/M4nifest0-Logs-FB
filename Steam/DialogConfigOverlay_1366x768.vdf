@@ -1,0 +1,426 @@
+"UserConfigData"
+{
+	"FriendsMainDialog"
+	{
+		"FriendPanelSelf"
+		{
+		}
+		"FriendsDialogSheet"
+		{
+			"FriendsFriendsPage"
+			{
+				"BuddyList"
+				{
+					"0_collapsed"		"0"
+					"1_collapsed"		"0"
+					"2_collapsed"		"0"
+					"3_collapsed"		"0"
+					"4_collapsed"		"0"
+					"5_collapsed"		"0"
+					"allfriends_collapsed"		"0"
+				}
+			}
+			"FriendsClansPage"
+			{
+				"BuddyList"
+				{
+					"0_collapsed"		"0"
+					"1_collapsed"		"0"
+					"2_collapsed"		"0"
+					"3_collapsed"		"0"
+				}
+			}
+		}
+		"FriendsState"
+		{
+		}
+		"xpos"		"1066"
+		"ypos"		"268"
+		"wide"		"252"
+		"tall"		"440"
+	}
+	"Servers"
+	{
+		"Pages"
+		{
+			"InternetGames"
+			{
+				"gamelist"
+				{
+				}
+			}
+			"FavoriteGames"
+			{
+				"gamelist"
+				{
+				}
+			}
+			"HistoryGames"
+			{
+				"gamelist"
+				{
+				}
+			}
+			"SpectateGames"
+			{
+				"gamelist"
+				{
+				}
+			}
+			"LanGames"
+			{
+				"gamelist"
+				{
+				}
+			}
+			"FriendsGames"
+			{
+				"gamelist"
+				{
+				}
+			}
+		}
+		"DialogServerBrowser.res"
+		{
+			"GameTabs"
+			{
+				"InternetGames"
+				{
+					"gamelist"
+					{
+						"#ServerBrowser_Password_hidden"		"0"
+						"#ServerBrowser_Bots_hidden"		"1"
+						"#ServerBrowser_Secure_hidden"		"0"
+						"#ServerBrowser_Servers_hidden"		"0"
+						"#ServerBrowser_IPAddress_hidden"		"1"
+						"#ServerBrowser_Game_hidden"		"0"
+						"#ServerBrowser_Players_hidden"		"0"
+						"#ServerBrowser_Map_hidden"		"0"
+						"#ServerBrowser_Latency_hidden"		"0"
+						"sort_column"		"#ServerBrowser_Latency"
+						"sort_column_secondary"		""
+						"sort_column_asc"		"1"
+						"sort_column_secondary_asc"		"1"
+					}
+				}
+				"FavoriteGames"
+				{
+					"gamelist"
+					{
+						"#ServerBrowser_Password_hidden"		"0"
+						"#ServerBrowser_Bots_hidden"		"1"
+						"#ServerBrowser_Secure_hidden"		"0"
+						"#ServerBrowser_Servers_hidden"		"0"
+						"#ServerBrowser_IPAddress_hidden"		"1"
+						"#ServerBrowser_Game_hidden"		"0"
+						"#ServerBrowser_Players_hidden"		"0"
+						"#ServerBrowser_Map_hidden"		"0"
+						"#ServerBrowser_Latency_hidden"		"0"
+						"sort_column"		"#ServerBrowser_Latency"
+						"sort_column_secondary"		""
+						"sort_column_asc"		"1"
+						"sort_column_secondary_asc"		"1"
+					}
+				}
+				"HistoryGames"
+				{
+					"gamelist"
+					{
+						"#ServerBrowser_Password_hidden"		"0"
+						"#ServerBrowser_Bots_hidden"		"1"
+						"#ServerBrowser_Secure_hidden"		"0"
+						"#ServerBrowser_Servers_hidden"		"0"
+						"#ServerBrowser_IPAddress_hidden"		"1"
+						"#ServerBrowser_Game_hidden"		"0"
+						"#ServerBrowser_Players_hidden"		"0"
+						"#ServerBrowser_Map_hidden"		"0"
+						"#ServerBrowser_Latency_hidden"		"0"
+						"#ServerBrowser_LastPlayed_hidden"		"0"
+						"sort_column"		"#ServerBrowser_LastPlayed"
+						"sort_column_secondary"		"#ServerBrowser_Latency"
+						"sort_column_asc"		"1"
+						"sort_column_secondary_asc"		"1"
+					}
+				}
+				"SpectateGames"
+				{
+					"gamelist"
+					{
+						"#ServerBrowser_Password_hidden"		"0"
+						"#ServerBrowser_Bots_hidden"		"1"
+						"#ServerBrowser_Secure_hidden"		"0"
+						"#ServerBrowser_Servers_hidden"		"0"
+						"#ServerBrowser_IPAddress_hidden"		"1"
+						"#ServerBrowser_Game_hidden"		"0"
+						"#ServerBrowser_Players_hidden"		"0"
+						"#ServerBrowser_Map_hidden"		"0"
+						"#ServerBrowser_Latency_hidden"		"0"
+						"sort_column"		"#ServerBrowser_Latency"
+						"sort_column_secondary"		""
+						"sort_column_asc"		"1"
+						"sort_column_secondary_asc"		"1"
+					}
+				}
+				"LanGames"
+				{
+					"gamelist"
+					{
+						"#ServerBrowser_Password_hidden"		"0"
+						"#ServerBrowser_Bots_hidden"		"1"
+						"#ServerBrowser_Secure_hidden"		"0"
+						"#ServerBrowser_Servers_hidden"		"0"
+						"#ServerBrowser_IPAddress_hidden"		"1"
+						"#ServerBrowser_Game_hidden"		"0"
+						"#ServerBrowser_Players_hidden"		"0"
+						"#ServerBrowser_Map_hidden"		"0"
+						"#ServerBrowser_Latency_hidden"		"0"
+						"sort_column"		"#ServerBrowser_Latency"
+						"sort_column_secondary"		""
+						"sort_column_asc"		"1"
+						"sort_column_secondary_asc"		"1"
+					}
+				}
+				"FriendsGames"
+				{
+					"gamelist"
+					{
+						"#ServerBrowser_Password_hidden"		"0"
+						"#ServerBrowser_Bots_hidden"		"1"
+						"#ServerBrowser_Secure_hidden"		"0"
+						"#ServerBrowser_Servers_hidden"		"0"
+						"#ServerBrowser_IPAddress_hidden"		"1"
+						"#ServerBrowser_Game_hidden"		"0"
+						"#ServerBrowser_Players_hidden"		"0"
+						"#ServerBrowser_Map_hidden"		"0"
+						"#ServerBrowser_Latency_hidden"		"0"
+						"sort_column"		"#ServerBrowser_Latency"
+						"sort_column_secondary"		""
+						"sort_column_asc"		"1"
+						"sort_column_secondary_asc"		"1"
+					}
+				}
+			}
+			"xpos"		"68"
+			"ypos"		"307"
+			"wide"		"683"
+			"tall"		"422"
+		}
+	}
+	"steam"
+	{
+		"cached"
+		{
+			"OverlaySplash.res"
+			{
+			}
+		}
+	}
+	"OverlayWebBrowserNew"
+	{
+		"ToolWindowSheet"
+		{
+			"WebBrowser"
+			{
+			}
+		}
+		"xpos"		"163"
+		"ypos"		"22"
+		"wide"		"1040"
+		"tall"		"723"
+	}
+	"resource"
+	{
+		"layout"
+		{
+			"overlaydashboard.layout"
+			{
+				"TopFadePanel"
+				{
+				}
+				"BottomFadePanel"
+				{
+				}
+				"BaseDesktopPanel"
+				{
+					"FriendsDetailPanel"
+					{
+					}
+					"AchievementsDetailPanel"
+					{
+						"achievement"
+						{
+						}
+					}
+					"NewsDetailPanel"
+					{
+						"newsitem"
+						{
+						}
+					}
+					"ScreenshotsDetailPanel"
+					{
+					}
+					"GuidesDetailPanel"
+					{
+						"guideitem"
+						{
+						}
+					}
+					"CommunityHubDetailPanel"
+					{
+					}
+					"CommunityDiscussionsDetailPanel"
+					{
+					}
+					"BroadcastDetailPanel"
+					{
+					}
+					"FriendsDialog"
+					{
+						"FriendPanelSelf"
+						{
+						}
+						"FriendsDialogSheet"
+						{
+							"FriendsFriendsPage"
+							{
+								"BuddyList"
+								{
+								}
+							}
+							"FriendsClansPage"
+							{
+								"BuddyList"
+								{
+								}
+							}
+						}
+						"FriendsState"
+						{
+						}
+					}
+					"FriendsWebChatVguiFrame"
+					{
+					}
+					"HTMLFramelessPopup"
+					{
+					}
+				}
+				"TaskbarPanel"
+				{
+				}
+				"tooltip"
+				{
+				}
+				"CServerBrowserDialog"
+				{
+					"GameTabs"
+					{
+						"InternetGames"
+						{
+							"gamelist"
+							{
+							}
+						}
+						"FavoriteGames"
+						{
+							"gamelist"
+							{
+							}
+						}
+						"HistoryGames"
+						{
+							"gamelist"
+							{
+							}
+						}
+						"SpectateGames"
+						{
+							"gamelist"
+							{
+							}
+						}
+						"LanGames"
+						{
+							"gamelist"
+							{
+							}
+						}
+						"FriendsGames"
+						{
+							"gamelist"
+							{
+							}
+						}
+					}
+				}
+			}
+			"overlaydesktop.layout"
+			{
+				"FriendsDetailPanel"
+				{
+				}
+				"AchievementsDetailPanel"
+				{
+					"achievement"
+					{
+					}
+				}
+				"NewsDetailPanel"
+				{
+					"newsitem"
+					{
+					}
+				}
+				"ScreenshotsDetailPanel"
+				{
+				}
+				"GuidesDetailPanel"
+				{
+					"guideitem"
+					{
+					}
+				}
+				"CommunityHubDetailPanel"
+				{
+				}
+				"CommunityDiscussionsDetailPanel"
+				{
+				}
+				"BroadcastDetailPanel"
+				{
+				}
+				"FriendsDialog"
+				{
+					"FriendPanelSelf"
+					{
+					}
+					"FriendsDialogSheet"
+					{
+						"FriendsFriendsPage"
+						{
+							"BuddyList"
+							{
+							}
+						}
+						"FriendsClansPage"
+						{
+							"BuddyList"
+							{
+							}
+						}
+					}
+					"FriendsState"
+					{
+					}
+				}
+				"FriendsWebChatVguiFrame"
+				{
+				}
+				"HTMLFramelessPopup"
+				{
+				}
+			}
+		}
+	}
+}

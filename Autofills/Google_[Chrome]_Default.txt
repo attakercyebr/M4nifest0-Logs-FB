@@ -1,0 +1,324 @@
+
+                                               
+    ██╗  ██╗ █████╗  ██████╗██╗  ██╗██╗  ██╗██╗     ██╗  ██╗ 
+    ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██║  ██║██║     ╚██╗██╔╝ 
+    ███████║███████║██║     █████╔╝ ███████║██║      ╚███╔╝  
+    ██╔══██║██╔══██║██║     ██╔═██╗ ╚════██║██║      ██╔██╗  
+    ██║  ██║██║  ██║╚██████╗██║  ██╗     ██║███████╗██╔╝ ██╗ 
+    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝
+          📌 M4nifest0 Black Hat Hacking Team™💪
+                       👊 hack4lx 👊
+            📌 💪 Site : https://m4nifest0.com 👊
+            📌 💪 Site : https://m4nifest0.group 👊
+            📌 💪 Site : https://m4nifest0.shop 👊
+        💪 Channel Telegram : https://t.me/M4nifest0 👊
+ # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
+Name: email
+Value: erichwenz@outlook.com
+===============
+Name: confirmUsername
+Value: 447.173.528-40
+===============
+Name: username2
+Value: erichwenz@outlook.com
+===============
+Name: freight-field
+Value: 13390-000
+===============
+Name: freight-field
+Value: 13259-000
+===============
+Name: freight-field
+Value: 13424-360
+===============
+Name: freight-field
+Value: 13426-145
+===============
+Name: email
+Value: 019971673607
+===============
+Name: cpf
+Value: 447.173.528-40
+===============
+Name: name
+Value: Erich Valentim Wenz
+===============
+Name: birthday
+Value: 16/01/1997
+===============
+Name: phone
+Value: (19) 97167-3607
+===============
+Name: editAddressReference
+Value: Vendemos mГіveis na casa
+===============
+Name: client-first-name
+Value: Erich
+===============
+Name: client-document
+Value: 447.173.528-40
+===============
+Name: number
+Value: 182
+===============
+Name: sl_list-search-box
+Value: ing
+===============
+Name: email
+Value: piracicabasala04@euroanglocursos.com.br
+===============
+Name: values['form-1187580']
+Value: Erich
+===============
+Name: values['form-1187588']
+Value: Miguel caparros
+===============
+Name: values['form-1187646']
+Value: Piracicaba
+===============
+Name: values['form-1187576']
+Value: 19971673607
+===============
+Name: fnome
+Value: milka
+===============
+Name: identifier
+Value: erichwenzz@gmail.com
+===============
+Name: displayName
+Value: Erich Wenz
+===============
+Name: email
+Value: rosangelaferreira1976@outlook.com
+===============
+Name: username
+Value: erich2020
+===============
+Name: name
+Value: Erich
+===============
+Name: username
+Value: Erich
+===============
+Name: username
+Value: erich2021
+===============
+Name: email
+Value: erichwenzz@gmail.com
+===============
+Name: name
+Value: Witcher
+===============
+Name: username
+Value: erich2022
+===============
+Name: email
+Value: erichwenz20@gmail.com
+===============
+Name: name
+Value: dahdoashd9uashd0u8ashgdpashbdpuashdpasbpiuasdpiuasbdpiuasbdpiuasbdpiuasbdpuasibdas
+===============
+Name: name
+Value: dsjadhiuashbdiuasbdiuasjbduasoibdpoГ§absjokas
+===============
+Name: name
+Value: dsadiaydoquyoeiuqwoie7uqwpeq
+===============
+Name: name
+Value: sadqweqwrqwdasdasda
+===============
+Name: user
+Value: erichwenz@outlook.com
+===============
+Name: shippingAddressNumber
+Value: 182
+===============
+Name: creditCardDueDate_Month
+Value: 06
+===============
+Name: creditCardDueDate_Year
+Value: 27
+===============
+Name: holderName
+Value: Erich Valentim Wenz
+===============
+Name: holderAreaCode
+Value: 19
+===============
+Name: holderPhone
+Value: 971673607
+===============
+Name: holderBornDate
+Value: 16/01/1997
+===============
+Name: debitCardDueMonth
+Value: 06
+===============
+Name: debitCardDueYear
+Value: 27
+===============
+Name: debitHolderName
+Value: Erich Valentim Wenz
+===============
+Name: debitHolderAreaCode
+Value: 19
+===============
+Name: debitHolderPhone
+Value: 971673607
+===============
+Name: debitHolderBornDate
+Value: 16/11/997
+===============
+Name: username
+Value: erich2023
+===============
+Name: email
+Value: erich.wenz@gmail.com
+===============
+Name: name
+Value: Case 1
+===============
+Name: name
+Value: Switch Case
+===============
+Name: fullName
+Value: Erich
+===============
+Name: numberPhone
+Value: (19) 97167-3607
+===============
+Name: filtro_precomaximo
+Value: R$ 42.800
+===============
+Name: filtro_precominimo
+Value: R$ 164.990
+===============
+Name: filtro_anoModelomaximo
+Value: 2014
+===============
+Name: filtro_anoModelominimo
+Value: 2019
+===============
+Name: filtro_km
+Value: 215.000
+===============
+Name: firstName
+Value: Erich
+===============
+Name: lastName
+Value: Valentim Wenz
+===============
+Name: phone
+Value: 19 971673607
+===============
+Name: eduStudyField-0
+Value: Engenharia MecГўnica
+===============
+Name: 0-Euro Anglo Cursos Profissionalizantes-salarySurvey-salary-text
+Value: 1500
+===============
+Name: 1-Euro Anglo Cursos Profissionalizantes-salarySurvey-salary-text
+Value: 25
+===============
+Name: 2-Euro Anglo Cursos Profissionalizantes-salarySurvey-salary-text
+Value: 25
+===============
+Name: screenq0
+Value: 1
+===============
+Name: field_nome3
+Value: Erich Valentim Wenz
+===============
+Name: field_email3
+Value: erichwenz@outlook.com
+===============
+Name: field_telefone3
+Value: 19971673607
+===============
+Name: nome
+Value: Erich Valentim Wenz
+===============
+Name: data_nascimento
+Value: 16/01/1997
+===============
+Name: titulo_formacao
+Value: Cursando Engenharia MecГўnica
+===============
+Name: linguas
+Value: InglГЄs
+===============
+Name: endereco
+Value: AVENIDA AGUA BRANCA, 182
+===============
+Name: bairro
+Value: Agua Branca
+===============
+Name: cidade
+Value: PIRACICABA
+===============
+Name: uf
+Value: SP
+===============
+Name: cep
+Value: 13424-360
+===============
+Name: celular
+Value: (19)97167-3607
+===============
+Name: empresa1
+Value: Euro Anglo
+===============
+Name: data_admissao1
+Value: 03/30/2019
+===============
+Name: first-name
+Value: Erich
+===============
+Name: last-name
+Value: Wenz
+===============
+Name: email-or-phone
+Value: erichwenzz@gmail.com
+===============
+Name: typeahead-input-for-city-district
+Value: Piraci
+===============
+Name: typeahead-input-for-title
+Value: Coordenador PedagГіgico
+===============
+Name: typeahead-input-for-company
+Value: Euro Anglo Educar e Profissionalizar
+===============
+Name: jobs-search-box-keyword-id-ember675
+Value: Professor de informГЎtica
+===============
+Name: jobs-search-box-location-id-ember675
+Value: Piracicaba, SГЈo Paulo, Brasil
+===============
+Name: nome_paciente
+Value: ERICH VALENTIM WENZ
+===============
+Name: cartao_sus
+Value: 13752551
+===============
+Name: nome_mae
+Value: ROSANGELA FERREIRA VALENTIM
+===============
+Name: fone
+Value: (19) 97167-3607
+===============
+Name: fone_whats
+Value: (19) 97167-3607
+===============
+Name: protocolo
+Value: 1610035574
+===============
+Name: data_nascimento_dia
+Value: 16
+===============
+Name: data_nascimento_mes
+Value: 01
+===============
+Name: data_nascimento_ano
+Value: 1997

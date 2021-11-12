@@ -1,0 +1,46 @@
+
+                                               
+    ██╗  ██╗ █████╗  ██████╗██╗  ██╗██╗  ██╗██╗     ██╗  ██╗ 
+    ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██║  ██║██║     ╚██╗██╔╝ 
+    ███████║███████║██║     █████╔╝ ███████║██║      ╚███╔╝  
+    ██╔══██║██╔══██║██║     ██╔═██╗ ╚════██║██║      ██╔██╗  
+    ██║  ██║██║  ██║╚██████╗██║  ██╗     ██║███████╗██╔╝ ██╗ 
+    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝
+          📌 M4nifest0 Black Hat Hacking Team™💪
+                       👊 hack4lx 👊
+            📌 💪 Site : https://m4nifest0.com 👊
+            📌 💪 Site : https://m4nifest0.group 👊
+            📌 💪 Site : https://m4nifest0.shop 👊
+        💪 Channel Telegram : https://t.me/M4nifest0 👊
+ # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
+Build ID: HACK
+IP: 189.35.122.21
+UserName: Erich
+Country: BR
+Zip Code: 13400
+Location: UNKNOWN
+HWID: 0544620F2F618294763724FE8F70CB06
+Current Language: Portuguese (Brazil)
+ScreenSize: 1366x768
+TimeZone: UTC-03:00:00
+Operation System: Windows 7 Ultimate x64
+UAC: AllowAll
+Process Elevation: False
+Log date: 1/11/2021 11:41:33 AM
+
+Available KeyboardLayouts: 
+Portuguese (Brazil)
+English (United States)
+English (United States)
+Portuguese (Brazil)
+
+
+Hardwares: 
+Name: Intel(R) Core(TM) i5-3330 CPU @ 3.00GHz, 4 Cores
+Name: NVIDIA GeForce GTX 750, 1073741824 bytes
+Name: Total of RAM, 8120.43 MB or 8514887680 bytes
+
+
+Anti-Viruses: 
+Windows Defender
