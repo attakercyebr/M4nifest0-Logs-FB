@@ -92,9 +92,3 @@
 	<img src="https://img.shields.io/badge/perl-%2339457E.svg?&style=for-the-badge&logo=perl&logoColor=white" />
 	<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
-
-
-
-
-# Logs-Victims
-I have logs fresh victims from this country [ US , DE , BR , AR , NL , MY , IL , CZ , CA , TR , ...etc ] Count : 2600 logs victims device 
